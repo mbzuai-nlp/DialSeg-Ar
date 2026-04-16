@@ -1,7 +1,7 @@
 # DialSeg-Ar
 
-[![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-Model-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/MBZUAI/dialseg-ar-gemma3-4B)
-[![Hugging Face Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-orange?logo=huggingface&logoColor=white)](https://huggingface.co/datasets/MBZUAI/dialseg-ar)
+[![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-Model-yellow?logo=huggingface&logoColor=yellow)](https://huggingface.co/MBZUAI/dialseg-ar-gemma3-4B)
+[![Hugging Face Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-orange?logo=huggingface&logoColor=yellow)](https://huggingface.co/datasets/MBZUAI/dialseg-ar)
 [![Paper](https://img.shields.io/badge/Paper-coming_soon-blue)](TODO_PAPER_URL)
 
 **DialSeg-Ar** is a benchmark and baseline system for **linear semantic segmentation** in **dialectal conversational Arabic**.
